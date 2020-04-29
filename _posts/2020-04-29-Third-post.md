@@ -1,6 +1,6 @@
 ---
 title: "welcome back!"
-date: 2020-04-29 18:37:27 -0400
+date: 2020-04-29 18:42:27 -0400
 categories: JustChat
 ---
 I dont know how to make the directory named `_JustChat`. I searched about that, but it is hard to me...
