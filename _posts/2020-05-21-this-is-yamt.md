@@ -1,12 +1,17 @@
 ---
-title: This is YAMT!
+title: This is RAMEON!
 layout: post
 categories: [Typography, Markdown, Tips]
 image: /assets/img/logo.jpg
-description: "Welcome to YAMT - Yet Another Minimal Theme."
+description: "Welcome to my studio - R A M E O N"
 ---
 
-Welcome to YAMT - Yet Another Minimal Theme. YAMT is a minimal Jekyll theme focused on simplicity and ease-of-use. It has great modularity, allowing you to easily decide what you actually want on your website.
+Welcome to my studio - R A M E O N.
+아래는 git 블로그테마 제공출처에 대한 설명이다.
+
+/*YAMT is a minimal Jekyll theme focused on simplicity and ease-of-use.
+It has great modularity, allowing you to easily decide what you actually want on your website.
+*/
 
 * hello
 {:toc}
