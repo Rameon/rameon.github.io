@@ -2,11 +2,11 @@
 title: This is RAMEON!
 layout: post
 categories: [Typography, Markdown, Tips]
-image: /assets/img/logo.jpg
+image: /assets/img/KakaoTalk_20200813_163219599.png
 description: "Welcome to my studio - R A M E O N"
 ---
 
-Welcome to my studio - R A M E O N.
+Welcome to my studio - R A M E O N.<br>
 아래는 git 블로그테마 제공출처에 대한 설명이다.
 
 /*YAMT is a minimal Jekyll theme focused on simplicity and ease-of-use.
